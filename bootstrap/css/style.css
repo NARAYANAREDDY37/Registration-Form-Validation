@@ -1,0 +1,26 @@
+/* Your custom styles */
+
+body{
+    background-image: url('../../images/Bg_dark.gif')
+}
+.card{
+    box-shadow: 0 0 10px white;
+}
+.is-form-valid{
+    border: 1px solid limegreen;
+    border-left: 10px solid limegreen;
+    box-shadow: 0 0 5px limegreen;
+}
+.is-form-invalid{
+    border: 1px solid orangered;
+    border-left: 10px solid orangered;
+    box-shadow: 0 0 5px orangered;
+}
+.text-success{
+    color: limegreen;
+    font-size:14px;
+}
+.text-danger{
+    color: orangered;
+    font-size:14px;
+}
